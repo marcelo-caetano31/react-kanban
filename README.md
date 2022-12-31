@@ -1,2 +1,2 @@
 # react-kanban
-Created with CodeSandbox
+Link para o projeto [aqui] (https://xxpyc2.csb.app/)
